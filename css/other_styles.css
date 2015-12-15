@@ -1,0 +1,50 @@
+
+*::-moz-selection {
+    background-color: #0c8743;
+}
+#footer, .hue_block {
+    background-color: #46b39e;
+}
+.fullwidthbanner .btn {
+    background-color: #0c8743;
+}
+.intro-icon-large:before, .hue {
+    color: #46b39e;
+}
+.hue_block:hover, .fullwidthbanner .btn:hover {
+    background-color: #323a45;
+}
+
+
+.fLeft {
+    float: left;
+}
+.fRight {
+    float: right;
+}
+
+.instructions_b_pos_mozilla {
+    right: 0;
+    top: 2%;
+}
+.instructions_b_pos_chrome {
+    bottom: 2%;
+    left: 5%;
+}
+.instructions_b_pos_msie {
+    bottom: 50px;
+    left: 50%;
+}
+.helvetica_11_grey {
+    color: #484848;
+    font: 11px 'Helvetica';
+    text-decoration: none;
+}
+a.helvetica_11_grey {
+    color: #484848;
+    font: 11px 'Helvetica';
+    text-decoration: none;
+}
+a.helvetica_11_grey:hover {
+    text-decoration: underline;
+}
